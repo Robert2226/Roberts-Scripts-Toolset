@@ -1,2 +1,9 @@
 # Roberts-Scrips-Toolset
-A collection of IT, networking, and automation tools for Linux and Mac.
+# 🚨 Repository Archived – Moved to New Location
+
+This repository has been **archived**.
+
+🔗 Please visit the new home of this project:  
+👉 [shell-scripts-toolkit](https://github.com/Robert2226/shell-scripts-toolkit)
+
+All future updates will be made there.
